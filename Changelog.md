@@ -4,3 +4,7 @@
 - Set up the README.md file.
 - Create a index.md.
 - Create Changelog.md.
+
+### Change
+- Initialized gradle project
+- Set up build.gradle 
